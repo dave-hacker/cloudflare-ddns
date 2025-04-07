@@ -8,7 +8,6 @@ zone_identifier=""                                  # Can be found in the "Overv
 record_name=""                                      # Which record you want to be synced
 ttl=3600                                            # Set the DNS TTL (seconds)
 proxy="false"                                       # Set the proxy to true or false
-sitename=""                                         # Title of site "Example Site"
 
 
 ###########################################
